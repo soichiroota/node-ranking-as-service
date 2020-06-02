@@ -1,0 +1,8 @@
+{  
+    "damping_factor": 0.85,
+    "tol": 0.1,
+    "solver": "naive",
+    "n_iter": 10,
+    "undirected": false,
+    "method": "approximate"
+}
